@@ -70,8 +70,6 @@ notifications when VM availability drops.
     │
     README.md
 
-This structure keeps the project clean, technical, and easy to navigate.
-
 ------------------------------------------------------------------------
 
 ## 🛠 Tools & Technologies Used
